@@ -13,7 +13,7 @@ export default function PortfolioContainer() {
     if (currentPage === 'About') {
       return <About />;
     }
-    if (currentPage === 'Portolio') {
+    if (currentPage === 'Portfolio') {
       return <Portfolio />;
     }
     if (currentPage === 'Resume') {
@@ -30,7 +30,18 @@ export default function PortfolioContainer() {
       <NavTabs currentPage={currentPage} handlePageChange={handlePageChange} />
       {/* Here we are calling the renderPage method which will return a component  */}
       {renderPage()}
+      <footer>
+        <div class="foottext1">
+          <p>
+        <a href="https://github.com/codelearning2021">Github Profile</a> ... <a href="https://www.linkedin.com/in/nathanieljohnson/">LinkedIn Profile</a> ... <a href="https://stackoverflow.com/users/21825875/nate">Stack Overflow Profile</a>
+        </p>
+        
+        </div>
+
+      
+    </footer>
     </div>
+    
   );
 }
 

@@ -9,3 +9,37 @@ h1 {
     text-align: center;
     color: darkblue;
 }
+
+a {
+    color: red;
+}
+
+.portrow {
+    border: 1em;
+    border-color: black;
+}
+
+.formoutline {
+    margin-top: 5em;
+    margin-left: 2em;
+    margin-right: 10em;
+}
+
+footer {
+    height: 100px;
+    background: #eee;
+    position: relative;
+}
+
+foottext1 {
+    vertical-align: bottom;
+    position:absolute;
+    bottom:0;
+    color: red;
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
