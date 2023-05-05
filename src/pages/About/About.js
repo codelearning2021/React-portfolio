@@ -8,6 +8,10 @@ export default function About() {
       <p>
         36 Year old with a decade in IT and a certificate in Full Stack Web Development.
       </p>
+
+      <p>
+        <img src="" />
+      </p>
     </div>
   );
 }
