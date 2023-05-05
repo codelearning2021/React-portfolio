@@ -31,7 +31,7 @@ footer {
     position: relative;
 }
 
-foottext1 {
+.foottext1 {
     vertical-align: bottom;
     position:absolute;
     bottom:0;
