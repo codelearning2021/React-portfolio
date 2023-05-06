@@ -9,7 +9,7 @@ export default function About() {
       </p>
 
       <p>
-        <img src="" />
+        <img src="./public/selfpic.jpg" />
       </p>
     </div>
   );
