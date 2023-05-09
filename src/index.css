@@ -10,11 +10,16 @@ h1 {
     color: darkblue;
 }
 
+ul {
+  font-size: larger;
+  font: Lucida;
+}
+
 a {
     color: red;
 }
 
-.portrow {
+.border {
     border: 1em;
     border-color: black;
 }
@@ -44,6 +49,7 @@ footer {
     }
   }
 
+
   /* .box {
     margin: 20px;
   }
@@ -63,3 +69,24 @@ footer {
   .box4 {
     background-color: grey;
   } */
+
+  img {
+    object-fit: cover;
+    height: 200px;
+    width: 100%;
+  }
+  
+  img:hover {
+    filter: grayscale(80%);
+  }
+  
+  .img-subtitle {
+    position: absolute;
+    bottom: 16px;
+    right: 16px;
+    color: whitesmoke;
+  }
+
+body { background: rgb(2,0,36);
+  background: linear-gradient(190deg, rgba(2,0,36,1) 0%, rgba(9,27,121,0.33519345238095233) 35%, rgba(0,212,255,1) 100%);
+}
