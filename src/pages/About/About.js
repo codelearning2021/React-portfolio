@@ -9,7 +9,7 @@ export default function About() {
       </p>
 
       <p>
-        <img src="./public/selfpic.jpg" />
+        <img src="https://github.com/codelearning2021/React-portfolio/blob/master/public/selfpic.jpg?raw=true" />
       </p>
     </div>
   );
