@@ -80,6 +80,11 @@ footer {
     filter: grayscale(80%);
   }
   
+  .selfpic {
+    height: 20%;
+    width: 20%;
+  }
+
   .img-subtitle {
     position: absolute;
     bottom: 16px;
