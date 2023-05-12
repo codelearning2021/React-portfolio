@@ -9,30 +9,30 @@ export default function () {
     <div class="col"><p>
       <a href="https://github.com/ikaera/Project-2">Record Store Exchange Site</a>
       </p>
-      <img src="https://github.com/codelearning2021/React-portfolio/blob/master/public/discexchange%20homepage.png?raw=true" />
+      <a href="https://serene-forest-09402.herokuapp.com/"><img src="https://github.com/codelearning2021/React-portfolio/blob/master/public/discexchange%20homepage.png?raw=true" /></a>
       </div>
     <div class="col"><p>
     <a href="https://jhdk707.github.io/Fitness5000/">Fitness Tracker</a>
       </p>
-      <img src="https://github.com/codelearning2021/React-portfolio/blob/master/public/fitness5000screencap.png?raw=true" /></div>
+      <a href="https://jhdk707.github.io/Fitness5000/"><img src="https://github.com/codelearning2021/React-portfolio/blob/master/public/fitness5000screencap.png?raw=true" /></a></div>
     <div class="w-100"></div>
     <div class="col"><p>
     <a href="https://github.com/codelearning2021/Nate-Johnson-s-timed-quiz-on-Javascript-basics">Javascript Timed Quiz</a>
       </p>
-      <img src="https://github.com/codelearning2021/React-portfolio/blob/master/public/javascriptfundamentals.png?raw=true" /></div>
+      <a href="https://codelearning2021.github.io/Nate-Johnson-s-timed-quiz-on-Javascript-basics/"><img src="https://github.com/codelearning2021/React-portfolio/blob/master/public/javascriptfundamentals.png?raw=true" /></a></div>
     <div class="col"><p>
     <a href="https://github.com/codelearning2021/regex-tutorial-and-explainer/blob/master/gist-template.md">Email Validation Gist</a>
       </p>
-      <img src="https://github.com/codelearning2021/React-portfolio/blob/master/public/gistemailregex.png?raw=true" /></div>
+      <a href="https://github.com/codelearning2021/regex-tutorial-and-explainer/blob/master/gist-template.md"><img src="https://github.com/codelearning2021/React-portfolio/blob/master/public/gistemailregex.png?raw=true" /></a></div>
     <div class="w-100"></div>
     <div class="col"><p>
       <a href="https://github.com/codelearning2021/node-Readme-generator">Node Readme Generator</a>
       </p>
-      <img src="https://github.com/codelearning2021/React-portfolio/blob/master/public/node%20readme%20generator.png?raw=true" /></div>
+      <a href="https://github.com/codelearning2021/node-Readme-generator"><img src="https://github.com/codelearning2021/React-portfolio/blob/master/public/node%20readme%20generator.png?raw=true" /></a></div>
     <div class="col"><p>
       <a href="https://github.com/codelearning2021/five-day-weather-app">Five Day Weather App</a>
       </p>
-      <img src="https://github.com/codelearning2021/React-portfolio/blob/master/public/fivedayweather.jpg?raw=true" /></div>
+      <a href="https://codelearning2021.github.io/Weather-Forecast-Five-Day-Out-APIs-/"><img src="https://github.com/codelearning2021/React-portfolio/blob/master/public/fivedayweather.jpg?raw=true" /></a></div>
   </div>
 </div>
     </div>
