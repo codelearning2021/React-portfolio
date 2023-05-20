@@ -3,6 +3,9 @@
 ## Description
 This portfolio is created using the React library. Here I demonstrate creation of a web page using react while promoting work I recently compiled on the trajectory to earn my Full Stack Developer Certification.
 
+## Deployed Page
+Visit it here: https://codelearning2021.github.io/React-portfolio/
+
 ## User Story
 
 ```
