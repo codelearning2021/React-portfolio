@@ -4,31 +4,32 @@ export default function () {
   return (
     <div>
       <h1>Portfolio</h1>
+
       <div class="container">
+  <div class="row">
       <div class="col"><p>
       <a href="https://github.com/siddz415/GamesRUS">Games-R-US Project</a>
       </p>
       <a href="https://gamesruss.herokuapp.com/"><img src="https://github.com/codelearning2021/React-portfolio/blob/master/public/gamesrus.png?raw=true" /></a></div>
-  <div class="row">
     <div class="col"><p>
       <a href="https://github.com/ikaera/Project-2">Record Store Exchange Site</a>
       </p>
       <a href="https://serene-forest-09402.herokuapp.com/"><img src="https://github.com/codelearning2021/React-portfolio/blob/master/public/discexchange%20homepage.png?raw=true" /></a>
       </div>
+      <div class="w-100"></div>
     <div class="col"><p>
     <a href="https://jhdk707.github.io/Fitness5000/">Fitness Tracker</a>
       </p>
       <a href="https://jhdk707.github.io/Fitness5000/"><img src="https://github.com/codelearning2021/React-portfolio/blob/master/public/fitness5000screencap.png?raw=true" /></a></div>
-    <div class="w-100"></div>
-    <div class="col"><p>
+\    <div class="col"><p>
     <a href="https://github.com/codelearning2021/Nate-Johnson-s-timed-quiz-on-Javascript-basics">Javascript Timed Quiz</a>
       </p>
       <a href="https://codelearning2021.github.io/Nate-Johnson-s-timed-quiz-on-Javascript-basics/"><img src="https://github.com/codelearning2021/React-portfolio/blob/master/public/javascriptfundamentals.png?raw=true" /></a></div>
+      <div class="w-100"></div>
     <div class="col"><p>
     <a href="https://github.com/codelearning2021/regex-tutorial-and-explainer/blob/master/gist-template.md">Email Validation Gist</a>
       </p>
       <a href="https://github.com/codelearning2021/regex-tutorial-and-explainer/blob/master/gist-template.md"><img src="https://github.com/codelearning2021/React-portfolio/blob/master/public/gistemailregex.png?raw=true" /></a></div>
-    <div class="w-100"></div>
     <div class="col"><p>
       <a href="https://github.com/codelearning2021/five-day-weather-app">Five Day Weather App</a>
       </p>
