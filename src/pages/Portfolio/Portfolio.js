@@ -5,6 +5,10 @@ export default function () {
     <div>
       <h1>Portfolio</h1>
       <div class="container">
+      <div class="col"><p>
+      <a href="https://github.com/siddz415/GamesRUS">Games-R-US Project</a>
+      </p>
+      <a href="https://gamesruss.herokuapp.com/"><img src="" /></a></div>
   <div class="row">
     <div class="col"><p>
       <a href="https://github.com/ikaera/Project-2">Record Store Exchange Site</a>
@@ -25,10 +29,6 @@ export default function () {
       </p>
       <a href="https://github.com/codelearning2021/regex-tutorial-and-explainer/blob/master/gist-template.md"><img src="https://github.com/codelearning2021/React-portfolio/blob/master/public/gistemailregex.png?raw=true" /></a></div>
     <div class="w-100"></div>
-    <div class="col"><p>
-      <a href="https://github.com/codelearning2021/node-Readme-generator">Node Readme Generator</a>
-      </p>
-      <a href="https://github.com/codelearning2021/node-Readme-generator"><img src="https://github.com/codelearning2021/React-portfolio/blob/master/public/node%20readme%20generator.png?raw=true" /></a></div>
     <div class="col"><p>
       <a href="https://github.com/codelearning2021/five-day-weather-app">Five Day Weather App</a>
       </p>
