@@ -8,7 +8,7 @@ export default function () {
       <div class="col"><p>
       <a href="https://github.com/siddz415/GamesRUS">Games-R-US Project</a>
       </p>
-      <a href="https://gamesruss.herokuapp.com/"><img src="" /></a></div>
+      <a href="https://gamesruss.herokuapp.com/"><img src="https://github.com/codelearning2021/React-portfolio/blob/master/public/gamesrus.png?raw=true" /></a></div>
   <div class="row">
     <div class="col"><p>
       <a href="https://github.com/ikaera/Project-2">Record Store Exchange Site</a>
